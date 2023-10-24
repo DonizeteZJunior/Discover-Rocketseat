@@ -1,7 +1,7 @@
 <h1 align="center">Devlinks</h1>
 <p align="center">
   <img alt="Projeto Devlinks"
-  src=".github/preview.jpg"
+  src=".github/preview.png"
   width="100%">
 </p>
 
@@ -20,7 +20,8 @@ Este projeto foi desenvolvido durante o curso Discover da Rocketseat(gratuito na
 
 ## 📋 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]{https://www.figma.com/community/file/1187422022288947321}. É necessário ter conta no [Figma]{https://www.figma.com/} para acessá-lo.
+Você pode visualizar o layout do projeto através
+<a href="https://www.figma.com/community/file/1187422022288947321">DESSE LINK</a>. É necessário ter conta no <a href="https://www.figma.com/">Figma</a> para acessá-lo.
 
 ## 📝 Licença
 
