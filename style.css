@@ -66,6 +66,10 @@ body * {
   margin-top: 8px;
 }
 
+#profile .description {
+  font-size: 14px;
+}
+
 /* Switch */
 #switch {
   position: relative;
